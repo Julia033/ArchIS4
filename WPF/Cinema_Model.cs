@@ -31,7 +31,7 @@ namespace WPF
                 }
             }
         }
-        public string DateTime
+        public DateTime DateTime
         {
             get
             {
@@ -42,6 +42,7 @@ namespace WPF
                 datetime = value;
                 OnPropertyChanged("DateTime");
             }
+
         }
         public int Total_seats
         {
@@ -79,14 +80,16 @@ namespace WPF
         }
 
         private string? film;
-        private string? datetime;
+        private DateTime datetime;
         private int total_seats;
         private bool available_seats;
 
         public event PropertyChangedEventHandler? PropertyChanged;
         public void OnPropertyChanged([CallerMemberName] string prop = "")
         {
+            //проверяет, что событие не равно null
             if (PropertyChanged != null)
+                //вызывает его, передавая имя свойства
                 PropertyChanged(this, new PropertyChangedEventArgs(prop));
         }
     }

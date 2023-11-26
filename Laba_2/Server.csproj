@@ -79,6 +79,11 @@
     <Compile Include="Cinema.cs" />
     <Compile Include="DataBase\CinemaContext.cs" />
     <Compile Include="DataController.cs" />
+    <Compile Include="Migrations\202311260740427_Migr.cs" />
+    <Compile Include="Migrations\202311260740427_Migr.designer.cs">
+      <DependentUpon>202311260740427_Migr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UdpServer.cs" />
   </ItemGroup>
@@ -107,6 +112,11 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202311260740427_Migr.resx">
+      <DependentUpon>202311260740427_Migr.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

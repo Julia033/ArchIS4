@@ -12,3 +12,17 @@ C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитекту
 C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\ArchIS3\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
 C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\ArchIS3\WPF\obj\Debug\WPF.exe
 C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\Архитектура ИС\ArchIS3\WPF\obj\Debug\WPF.pdb
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\bin\Debug\WPF.exe.config
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\bin\Debug\WPF.exe
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\bin\Debug\WPF.pdb
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\WPF.csproj.AssemblyReference.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\MainWindow.baml
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\App.g.cs
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\WPF.g.resources
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\WPF.exe
+C:\Users\Юлия\OneDrive\Рабочий стол\Учеба\ГИТ\ArchIS4\WPF\obj\Debug\WPF.pdb

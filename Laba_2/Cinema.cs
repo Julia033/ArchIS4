@@ -7,8 +7,8 @@ namespace Laba_2
         public int ID { get; set; }
         private string? film;
         public string Film { get { return film; } set { film = value; } }
-        private string? datetime;
-        public string DateTime { get { return datetime; } set { datetime = value; } }
+        private DateTime datetime;
+        public DateTime DateTime { get { return datetime; } set { datetime = value; } }
         private bool available_seats;
         public bool Available_seats { get { return available_seats; } set { available_seats = value; } }
         private int total_seats;

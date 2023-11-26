@@ -16,11 +16,11 @@
                   Grid.Row="0"
                   AutoGenerateColumns="False"
                   ItemsSource="{Binding Cinemas}"
-                  Margin="10,10,10,82">
+                  Margin="10,10,10,0">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Название" Binding="{Binding Film}" Width="0.4*" />
-                <DataGridTextColumn Header="Дата и время показа" Binding="{Binding DateTime}" Width="0.4*" />
-                <DataGridTextColumn Header="Есть ли свободные места?" Binding="{Binding Available_seats}" Width="0.2*" />
+                <DataGridTextColumn Header="Дата и время показа" Binding="{Binding DateTime}" Width="0.3*" />
+                <DataGridTextColumn Header="Наличие свободных мест" Binding="{Binding Available_seats}" Width="0.3*" />
                 <DataGridTextColumn Header="Количество мест" Binding="{Binding Total_seats}" Width="0.3*" />
             </DataGrid.Columns>
         </DataGrid>
